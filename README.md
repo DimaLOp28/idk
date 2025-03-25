@@ -3,7 +3,7 @@
 ### Nadpis 3
 - ahoj
 ### Obrazky
-![image](https://github.com/user-attachments/assets/8b00e3e5-2ead-4d97-a4d5-3b81f16dc727)
+![image](https://github.com/user-attachments/assets/670b2467-6cc2-4bd9-971d-312ff6612b2b)
 
 ### Cod
 ``` python 
